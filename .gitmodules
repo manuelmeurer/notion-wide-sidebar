@@ -1,0 +1,3 @@
+[submodule "extension/crx-hotreload"]
+	path = extension/crx-hotreload
+	url = https://github.com/xpl/crx-hotreload.git

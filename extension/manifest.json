@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name":             "Notion Wide Sidebar",
+  "description":      "Notion Wide Sidebar",
+  "version":          "1.0",
+  "background": {
+    "scripts": [
+      "crx-hotreload/hot-reload.js"
+    ],
+    "persistent": false
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.notion.so/*"
+      ],
+      "css": [
+        "style.css"
+      ]
+    }
+  ]
+}
