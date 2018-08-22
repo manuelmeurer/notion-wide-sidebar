@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Since August 21, 2018, the Notion sidebar is resizable, so this extension is no longer needed.
+
 # Notion Wide Sidebar
 
 This is a small Chrome extension that makes the sidebar on [Notion](https://www.notion.so/) wider. I love Notion but it always bothered me that the sidebar was only 230px wide with no option to resize it... if you have one or two subfolders and more than two words in your page titles, it will be very hard to navigate in such a small sidebar.
