@@ -7,7 +7,7 @@ GEM
       execjs
     coffee-script-source (1.12.2)
     execjs (2.7.0)
-    ffi (1.9.23)
+    ffi (1.12.2)
     formatador (0.2.5)
     guard (2.14.2)
       formatador (>= 0.2.4)
